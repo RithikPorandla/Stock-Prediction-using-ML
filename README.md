@@ -22,3 +22,9 @@ This Python script utilizes the ARIMA (AutoRegressive Integrated Moving Average)
 1. Replace `'YOUR_API_KEY'` with your actual Alpha Vantage API key.
 2. Specify the stock symbol of interest (e.g., `'MSFT'` for Microsoft).
 3. Run the script to obtain predictions and visualize the results.
+
+### Output:
+
+This is how the output of the code, the graph would look like. 
+
+![image](https://github.com/RithikPorandla/Stock-Prediction-using-ML/assets/123709014/7b31fd91-49f7-4b3a-8cf0-63424b4859bc)
